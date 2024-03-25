@@ -4,5 +4,7 @@
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
     "email":"zwl@outlook.ie",
-
+    "singlePage":["link","about"],
+    "onePageListNum":15,
+    "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
 }
