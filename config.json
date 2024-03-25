@@ -2,7 +2,7 @@
     "title":"Zack's Blog",
     "subTitle":"Happy coding, happy living!",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"main",
+    "GMEEK_VERSION":"last",
     "email":"zwl@outlook.ie",
     "singlePage":["link","about"],
     "onePageListNum":15,
